@@ -27,7 +27,7 @@ O `pypix` gera o payload Pix conforme o padrão oficial do Banco Central do Bras
 
 ## 📦 Instalação
 
-Antes de usar, instale as bibliotecas necessárias:
+Instalando as blibiotecas necessárias:
 
 ```bash
 pip install qrcode[pil]
@@ -37,3 +37,10 @@ Depois, clone este repositório:
 
 ```bash
 git clone https://github.com/zeus123-e/pypix.git
+```
+
+---
+
+##👮🏿‍♂️Autor
+
+Alexandre Amaral ==> blackalexandre222@gmail.com
