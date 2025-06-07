@@ -31,8 +31,7 @@ Antes de usar, instale as bibliotecas necessárias:
 
 ```bash
 pip install qrcode[pil]
-
----
+```
 
 Depois clone este repositório:
 
