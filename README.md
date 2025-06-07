@@ -35,4 +35,4 @@ pip install qrcode[pil]
 Depois clone este repositório:
 
 ```bash
-git clone https://github.com/zeus123-e/pypix.git(https://github.com/zeus123-e/pypix)
+git clone https://github.com/zeus123-e/pypix.git
